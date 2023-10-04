@@ -130,4 +130,35 @@ margin-right: 15px;
 margin-bottom: -10px;
 }
 
+@media (max-width: 960px) {
+
+  
+  .ContentContainer{
+    
+    display: flex;
+    flex-direction: column;
+    
+    
+  }
+ 
+nav .logoContainer{
+  margin-left: 10px;
+}
+
+nav h1{
+  font-size: 15px ;
+}
+nav img{
+margin-top: 10px;
+  height: 30px;
+}
+
+
+nav ul{
+  font-size: 15px;
+margin-right: 0;
+}
+
+
+}
 
